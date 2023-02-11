@@ -53,6 +53,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Electron + React + Vite + Sass](https://dev.to/4bda11ah/electron-react-vite-sass-2gpj)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
